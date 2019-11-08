@@ -1,2 +1,2 @@
 # cool-compiler
-Yet another Class room object oriented comiler
+Yet another "class room object oriented compiler"
